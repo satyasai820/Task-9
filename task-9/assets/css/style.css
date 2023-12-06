@@ -1,0 +1,19 @@
+.swiper-container {
+    overflow: hidden;
+    
+  }
+  .swiper-slide {
+    display: flex;
+    justify-content: center;
+  }
+  .card {
+    height: 100%;
+  }
+  .card img{
+    height:70%;
+    object-fit: cover;
+  }
+
+  .checked {
+    color:gold;
+  }
